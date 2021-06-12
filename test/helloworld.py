@@ -1,0 +1,5 @@
+print('Hello, World!')
+print(1+2)
+print(5*5)
+print()
+print("The End...", "Testing...", "1234")
