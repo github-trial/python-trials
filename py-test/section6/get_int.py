@@ -2,6 +2,14 @@ import random
 
 
 def get_integer(prompt):
+    """_summary_
+
+    Args:
+        prompt (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
     while True:
         temp = input(prompt)
         if temp.isnumeric():
